@@ -1,5 +1,5 @@
 # Yoga Website
-> Outline a brief description of your project.
+> Welcome to my Yoga Website both for beginner and Yoga enthusiast.
 > Live demo [_here_](https://filipljung.github.io/yogaWebsite/). 
 
 ## Project Goals
