@@ -1,6 +1,6 @@
 # Yoga Website
 > Outline a brief description of your project.
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+> Live demo [_here_](https://filipljung.github.io/yogaWebsite/). 
 
 ## Project Goals
 * [User Goals](#User-Goals)
