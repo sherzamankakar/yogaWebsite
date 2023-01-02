@@ -55,14 +55,14 @@
 
 
 ## Introdcution
-- Yoga-Website is website intended for passionate Yoga enthusiasts and those who are about to become one. It is an imaginary company but with the intention for someone to use the content of Yoga site maybe as an idea to make imaginary come to life and make yoga community expand. With that thought I'm inviting you to join me on a virtual journey of making Yoga. Targeted user is any adventurous person aged 7-120yrs who is willing to learn and enjoy life,sea,sun,wind,and sand. Trough this website project users will be briefly introduced with company goals value it brings into the market and services it provides
+- Yoga-Website is website intended for passionate Yoga enthusiasts and those who are about to become one. It is an imaginary company but with the intention for someone to use the content of Yoga site maybe as an idea to make imaginary come to life and make yoga community expand. With that thought I'm inviting you to join me on a virtual journey of making Yoga. Targeted user is any adventurous person aged 7-120yrs who is willing to learn and enjoy life and yoga Trough this website project users will be briefly introduced with company goals value it brings into the market and services it provides
 - Website is first of five milestone projects for acquiring the "Diploma In Software Development" with Code institute. Requirements of this project are use of HTML and CSS in creating a fully responsive website with minimum of 3 pages (or distinct sections)
 
 
 
 ## User Goals
 
-To find a company to learn how to Surf quick, efficient and, safe
+To find a company to learn how to Yoga quick, efficient and, safe
 See clearly full range of what company offers
 Clear pricing of offers
 Easy to find information about company
